@@ -37,11 +37,7 @@ adivina-el-numero/
 ├── style.css            # Estilos de la página principal
 │
 └── img/                 # Recursos visuales
-    ├── JS Game.html     # Versión alternativa del juego
-    ├── JS Game_files/   # Archivos de la versión alternativa
-    │   ├── app.js      # Código JavaScript alternativo
-    │   └── style.css   # Estilos alternativos
-    │
+    ├── JS Game.html     # Versión demo del juego
     ├── Ruido.png       # Textura de fondo
     ├── bg.png          # Imagen de fondo
     ├── code.png        # Icono de código
